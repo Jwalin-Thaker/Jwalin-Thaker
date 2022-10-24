@@ -4,7 +4,6 @@
 - 🌱 Currently learning these subjects: Data Acquisition and Analysis: Big Data, Applied Game Theory, Deep Learning
 - 💞️ I’m looking to collaborate on projects revolving around application of Artificial Intelligence, Robotics, Green Finance and Web3.0
 - 📫 How to reach me? Personal Email: jwalinsmrt@gmail.com | School Email: jthaker1@stevens.edu
-
 - 📄 My Resume:
 [Resume - Jwalin Thaker.pdf](https://github.com/Jwalin-Thaker/Jwalin-Thaker/files/8534930/Resume.-.Jwalin.Thaker.pdf)
 
